@@ -3,13 +3,15 @@
 
 ---
 
-## >🃁 About Me
+## > 🃁 About Me
 
-Me encuentro formándome en el área de Desarrollo de Aplicaciones Web **(DAW)**. Disfruto de la configuración y puesta en marcha de servidores, así como de la preparación del hardware necesario para mis proyectos. Al mismo tiempo, me interesa seguir desarrollando y perfeccionando mis habilidades de programación. Anteriormente cursé ~~Bachillerato~~, pero tras finalizarlo descubrí que quería orientar mi formación hacia el desarrollo profesional en el ámbito de la **ingeniería de hardware y software**.
+Me encuentro formándome en el área de Desarrollo de Aplicaciones Web **(DAW)**. Disfruto de la configuración y puesta en marcha de servidores, así como de la preparación del hardware necesario para mis proyectos. Al mismo tiempo, me interesa seguir desarrollando y perfeccionando mis habilidades de programación. 
+
+Anteriormente cursé ~~Bachillerato~~, pero tras finalizarlo descubrí que quería orientar mi formación hacia el desarrollo profesional en el ámbito de la **ingeniería de hardware y software**.
 
 ---
 
-## >⚙ Technologies & Tools
+## > ⚙ Technologies & Tools
 
 ![Python]<img width="5000" height="1451" alt="imagen" src="https://github.com/user-attachments/assets/128fff72-5246-45da-936b-ef80e6bffa26" />
 
