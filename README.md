@@ -19,6 +19,12 @@ Anteriormente cursé ~~Bachillerato~~, pero tras finalizarlo descubrí que quer�
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+---
+
+## > 🜂 Fields of Interest
+* **Infraestructura y Homelabs:** Diseño, despliegue y mantenimiento de entornos de servidor locales y autoalojados.
+* **Automatización de Procesos:** Desarrollo de scripts y flujos de trabajo orientados a la optimización operativa y eficiencia de tareas.
+* **Transformación Digital:** Análisis e implementación de soluciones tecnológicas aplicadas a la digitalización y modernización de negocios.
 
 
 <!--
