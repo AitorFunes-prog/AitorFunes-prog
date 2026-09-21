@@ -52,6 +52,32 @@ Anteriormente cursé ~~Bachillerato~~, pero tras finalizarlo descubrí que quer�
 | **Web Data Scraper** | `Python` | ![In Progress](https://img.shields.io/badge/In%20Progress-e3b341?style=flat-square) |
 | **Personal Web Portfolio** | `HTML5` `CSS3` `JavaScript` | ![Planned](https://img.shields.io/badge/Planned-6e7681?style=flat-square) |
 
+---
+
+"""
+Profile Automation & Routine
+"""
+from dataclasses import dataclass
+from typing import List
+
+@dataclass
+class Developer:
+    name: str
+    focus: str
+    stack: List[str]
+    is_learning: bool = True
+
+    def run_daily_routine(self) -> str:
+        return f"{self.name} is building and automating systems with {', '.join(self.stack[:3])}."
+
+me = Developer(
+    name="Aitor",
+    focus="Web Applications & Scripting",
+    stack=["Python", "JavaScript", "Linux", "Docker"]
+)
+
+if __name__ == "__main__":
+    print(me.run_daily_routine())
 
 <!--
 **AitorFunes-prog/AitorFunes-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
