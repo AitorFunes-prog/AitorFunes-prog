@@ -54,42 +54,7 @@ Anteriormente cursé ~~Bachillerato~~, pero tras finalizarlo descubrí que quer�
 
 ---
 
-"""
-Profile Automation & Routine
-"""
-from dataclasses import dataclass
-from typing import List
+## > ⬡ Connect & Socials
 
-@dataclass
-class Developer:
-    name: str
-    focus: str
-    stack: List[str]
-    is_learning: bool = True
-
-    def run_daily_routine(self) -> str:
-        return f"{self.name} is building and automating systems with {', '.join(self.stack[:3])}."
-
-me = Developer(
-    name="Aitor",
-    focus="Web Applications & Scripting",
-    stack=["Python", "JavaScript", "Linux", "Docker"]
-)
-
-if __name__ == "__main__":
-    print(me.run_daily_routine())
-
-<!--
-**AitorFunes-prog/AitorFunes-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ✉ **Personal:** [funesaitor@gmail.com](mailto:funesaitor@gmail.com)
+* 🕮 **Corporativo:** [afunpin@g.educaand.es](mailto:afunpin@g.educaand.es)
