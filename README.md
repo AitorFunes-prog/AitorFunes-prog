@@ -57,11 +57,13 @@ if __name__ == "__main__":
 
 ## ◈ Portafolio y proyectos
 
+## ◈ Portafolio y proyectos
+
 | Proyecto | Tecnologías | Estado |
 | :--- | :--- | :---: |
-| **Automated File Sanitizer** | `Python` `CLI` | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
-| **Web Data Scraper** | `Python` | ![In Progress](https://img.shields.io/badge/In%20Progress-e3b341?style=flat-square) |
-| **Personal Web Portfolio** | `HTML5` `CSS3` `JavaScript` | ![Planned](https://img.shields.io/badge/Planned-6e7681?style=flat-square) |
+| **Sanitizador Automatizado de Archivos** | `Python` `CLI` | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
+| **Extractor de Datos Web (Scraper)** | `Python` | ![In Progress](https://img.shields.io/badge/In%20Progress-e3b341?style=flat-square) |
+| **Portafolio Web Personal** | `HTML5` `CSS3` `JavaScript` | ![Planned](https://img.shields.io/badge/Planned-6e7681?style=flat-square) |
 
 ---
 
